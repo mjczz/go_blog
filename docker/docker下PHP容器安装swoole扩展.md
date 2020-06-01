@@ -1,5 +1,8 @@
 # docker下PHP容器安装swoole扩展
 
+使用docker提供的命令工具
+
+
 首先进入php容器里，在这里我执行过
 
 ```bash
